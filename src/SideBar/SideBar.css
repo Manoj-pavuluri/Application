@@ -1,0 +1,28 @@
+.Sidebarmain{
+    display: flex;
+    flex-grow: 1;
+}
+
+.SideBarChild {
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 20px;
+    color: white;
+    border-radius: 2px;
+  }
+
+  .content {
+    flex-grow: 1;
+  }
+  .HomeIcon{
+    margin-right: 12px;
+  }
+
+  .SideBarwidth{
+    margin-bottom: 28%;
+  }
+  .SideBarBg{
+    background-color: cornflowerblue;
+  }

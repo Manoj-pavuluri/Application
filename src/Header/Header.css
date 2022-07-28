@@ -1,0 +1,19 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+ .HeaderBg{
+  background-color: cornflowerblue;
+ }
+ .HeaderImage{
+  height: 62px;
+  width: 100%;
+ }
+ .formSearch{
+  height: 40px;
+  width: 44%;
+ }
+ .SearchButton{
+  width:"40%"
+ }
